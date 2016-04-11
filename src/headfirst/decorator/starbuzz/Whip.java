@@ -1,4 +1,4 @@
-package headfirst.decorator.starbuzz;
+package com.j1.w5;
 
 public class Whip extends CondimentDecorator {
   Beverage beverage;

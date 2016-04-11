@@ -1,4 +1,4 @@
-package headfirst.decorator.starbuzz;
+package com.j1.w5;
 
 public class Mocha extends CondimentDecorator {
   Beverage beverage; //이건 왜 하는거징..?//
